@@ -7,4 +7,6 @@
 
 >
 
+Lorsqu'il se réveilla le lendemain matin, tous les objets de sa maison avaient disparus! Il se leva et décida d'appeler son meilleur ami.  Il lui dit que la même chose venait de se produire chez lui, et que même ses animaux de compagnie avaient disparu. Alors les deux amis se lancèrent à leur recherche...
+
 
