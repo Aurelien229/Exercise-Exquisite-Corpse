@@ -16,11 +16,15 @@ Il se leva, pris son café et se perdi dans ses penssée pour une nouvelle journ
 
 Lorsqu'il se réveilla le lendemain matin, tous les objets de sa maison avaient disparus! Il se leva et décida d'appeler son meilleur ami.  Il lui dit que la même chose venait de se produire chez lui, et que même ses animaux de compagnie avaient disparu. Alors les deux amis se lancèrent à leur recherche...
 
+Ils commencèrent à explorer les rues de leur petite ville endormie, constatant avec stupeur que toutes les maisons semblaient vides. Pas un seul voisin n'était visible, et le silence régnait. Les rues, autrefois animées, étaient maintenant désertes.
+
 Un petit poème sur le café
 ```
 Dans la tasse, un ballet d'ombres dansantes,
 Arôme envoûtant, promesse en chaque instant.
 Noir et chaud, élixir des matins pressés,
 Le café réveille l'âme, sa magie enchantée.
+
+
 ```
 
